@@ -10,7 +10,7 @@ class LogicAgent:
     def __init__(self):
 
         self.llm = ChatGroq(
-            groq_api_key=os.getenv("GROQ_API_KEY"),,
+            groq_api_key='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',
             model_name="llama-3.1-8b-instant",
             temperature=0.2
         )
