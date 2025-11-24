@@ -2,6 +2,11 @@
 
 An intelligent, multi-agent system for automated code review of GitHub Pull Requests. This system uses multiple specialized AI agents to analyze code changes and provide comprehensive, actionable review comments.
 
+<img width="1918" height="928" alt="Screenshot 2025-11-14 113719" src="https://github.com/user-attachments/assets/a102ba1b-172a-4a0b-b650-7522b7b4a584" />
+
+<img width="1919" height="969" alt="Screenshot 2025-11-14 113730" src="https://github.com/user-attachments/assets/98b32fb4-c314-434e-beef-b43668da0374" />
+
+
 ## 🎯 Features
 
 - **Multi-Agent Architecture**: Four specialized agents working together:
